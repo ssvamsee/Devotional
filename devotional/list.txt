@@ -1,0 +1,12 @@
+monday: Shiva related
+tuesday:Hanuman related
+wednesday: ganesh related
+thursday:sai baba related
+friday:lakshmi devi
+saturday:venkateswara swamy related
+sunday: Aditya hrudayam(related to sun)
+
+common:
+Vishnu sahasranam
+lalitha shasranam
+
