@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0f04f76.css",
-    "main.js": "/static/js/main.3ad17731.js",
-    "index.html": "/index.html",
-    "main.d0f04f76.css.map": "/static/css/main.d0f04f76.css.map",
-    "main.3ad17731.js.map": "/static/js/main.3ad17731.js.map"
+    "main.css": "/Devotional/static/css/main.d0f04f76.css",
+    "main.js": "/Devotional/static/js/main.3ad17731.js",
+    "index.html": "/Devotional/index.html",
+    "main.d0f04f76.css.map": "/Devotional/static/css/main.d0f04f76.css.map",
+    "main.3ad17731.js.map": "/Devotional/static/js/main.3ad17731.js.map"
   },
   "entrypoints": [
     "static/css/main.d0f04f76.css",
