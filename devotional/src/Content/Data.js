@@ -14,52 +14,52 @@ export const content = [
    {
       name: 'Load Ganapati',
       URL: Ganapati,
-      key: 'Ganapati'
+      key: 'Lord Vinayaka'
    },
    {
       name: 'Load Shiva',
       URL: Shiva,
-      key: 'shiva'
+      key: 'Lord Shiva'
    },
    {
       name: 'Load Lakshmi',
       URL: Lakshmi,
-      key: 'Lakshmi'
+      key: 'Goddess Durga'
    },
    {
       name: 'Load Saibaba',
       URL: saibaba,
-      key: 'Saibaba'
+      key: 'Lord SaiBaba'
    },
    {
       name: 'Load Hanuma',
       URL: Hanuma,
-      key: 'Hanuma'
+      key: 'Lord Hanuman'
    },
    {
       name: 'Load Venkateshwara',
       URL: Venkateshwara,
-      key: 'Venkateshwara'
+      key: 'Lord Venkateswara'
    },
    {
       name: 'Load Krishna',
       URL: Krishana,
-      key: 'Krishna'
+      key: 'Lord Surya'
    },
    {
       name: 'Load Dhurga',
       URL: Dhuraga,
-      key: 'Durga'
+      key: 'Lord Surya'
    },
    {
       name: 'Load Surya',
       URL: Surya,
-      key: 'Surya'
+      key: 'Lord Surya'
    },
    {
       name: 'Load Narashima',
       URL: Narshima,
-      key: 'Narshima'
+      key: 'Lord Surya'
    },
 
 ]
