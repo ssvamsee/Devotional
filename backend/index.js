@@ -37,8 +37,8 @@ app.get('/songs', async (req, res) => {
     return res.status(400).json({ error: 'Category parameter is missing.' });
   }
   try {
-    const connection = await connectDB();
-    console.log(connection)
+    await connectDB();
+    // console.log(connection)
     const query = { category: category };
     const result = await mongoose.connection.collection(collectionName).find(query).toArray();
     res.json(result);
