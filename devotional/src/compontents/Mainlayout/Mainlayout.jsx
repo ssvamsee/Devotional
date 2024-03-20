@@ -14,7 +14,7 @@ export default function Mainlayout() {
    const isslected = useSelector((state) => state.player.isselected)
 
    const fetchdata = async (qurey) => {
-      await fetch(`https://devotional.onrender.com/songs?category=${qurey}`, {
+      await fetch(`https://devotional.onrender.com/songs/?category=${qurey}`, {
          method: 'GET',
          mode: 'cors',
       }).then(response => response.json())
