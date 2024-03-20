@@ -33,6 +33,7 @@ const connectDB = async () => {
 }
 app.get('/songs', async (req, res) => {
   const category = req.query.category;
+  console.log(category)
   if (!category) {
     return res.status(400).json({ error: 'Category parameter is missing.' });
   }
