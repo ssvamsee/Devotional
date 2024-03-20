@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Devotional/static/css/main.c066bb9b.css",
-    "main.js": "/Devotional/static/js/main.7fe61938.js",
+    "main.js": "/Devotional/static/js/main.03c231e9.js",
     "static/media/ganpathi.jpg": "/Devotional/static/media/ganpathi.b560bab2e700fa335e8f.jpg",
     "static/media/Hanuma.jpg": "/Devotional/static/media/Hanuma.173c3af5d14cb52e77b8.jpg",
     "static/media/surya.jpeg": "/Devotional/static/media/surya.48182c92081581337253.jpeg",
@@ -14,10 +14,10 @@
     "static/media/saibaba.jpeg": "/Devotional/static/media/saibaba.384458508f8c67ee117f.jpeg",
     "index.html": "/Devotional/index.html",
     "main.c066bb9b.css.map": "/Devotional/static/css/main.c066bb9b.css.map",
-    "main.7fe61938.js.map": "/Devotional/static/js/main.7fe61938.js.map"
+    "main.03c231e9.js.map": "/Devotional/static/js/main.03c231e9.js.map"
   },
   "entrypoints": [
     "static/css/main.c066bb9b.css",
-    "static/js/main.7fe61938.js"
+    "static/js/main.03c231e9.js"
   ]
 }
